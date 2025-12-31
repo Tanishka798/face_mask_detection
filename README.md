@@ -41,6 +41,7 @@ face_mask_detection/
 ├── test_images/
 │   ├── test1.jpg
 │   ├── test2.jpg
+│   ├── test3.jpg
 │
 ├── train_mask_detector.py
 ├── detect_mask_video.py
