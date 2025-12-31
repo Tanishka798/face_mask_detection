@@ -31,6 +31,7 @@ augmentation and early stopping.
 ---
 
 ## 📂 Project Structure
+```
 face_mask_detection/
 │
 ├── dataset/
@@ -46,6 +47,7 @@ face_mask_detection/
 ├── predict_image.py
 ├── mask_detector.keras
 └── README.md
+```
 
 ---
 
@@ -122,7 +124,3 @@ Press Q to exit the webcam window.
 Tanishka
 
 ---
-
-## 🔥 Resume Line
-Built a real-time face mask detection system using MobileNetV2 and OpenCV, trained on 7,500+
-images with data augmentation and early stopping. add test3 in test_imges 
